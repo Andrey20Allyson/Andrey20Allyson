@@ -12,6 +12,9 @@
         - [**Rank 4 - Vish**](#rank-4---vish)
         - [**Rank 5 - Não é linguagem >:C**](#rank-5---não-é-linguagem-c)
 - [**GitHub Stats**](#github-stats)
+- [**Formação**](#formação)
+    - [**Uninassau**](#uninassau-atual)
+    - [**ETE - Adv José David Gil Rodrigues**](#ete---adv-josé-david-gil-rodrigues)
 
 # Sobre mim
 
@@ -38,25 +41,25 @@ Aqui está uma lista de linguagens que eu conheço e ordenada pelo o meu **níve
 
 ### `Rank 1` - "Domino"
 
-- Javascript | Typescript
+- *Javascript | Typescript*
 
 ### `Rank 2` - Intermeriário
 
-- Java
-- Python
-- Lua
+- *Java*
+- *Python*
+- *Lua*
 
 ### `Rank 3` - Só o básico
 
-- C++
+- *C++*
 
 ### `Rank 4` - Vish
 
-- C
+- *C*
 
 ### `Rank 5` - Não é  linguagem >:C
 
-- Portugol
+- *Portugol*
 
 ---
 
@@ -74,7 +77,7 @@ Aqui está uma lista de linguagens que eu conheço e ordenada pelo o meu **níve
 ## Formação
 
 <div align="center">
-<img src="https://www.uninassau.edu.br/landpages/nassau/img/layout/logo-small.png">
+    <img src="https://www.uninassau.edu.br/landpages/nassau/img/layout/logo-small.png">
 </div>
 
 ### Uninassau `Atual`
