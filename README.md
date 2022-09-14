@@ -101,5 +101,4 @@ Aqui está uma lista de linguagens que eu conheço e ordenada pelo o meu **níve
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-follow-blue?logo=linkedin&style=social)](https://www.linkedin.com/in/andrey-allyson-310a9024b/)
 
-![Email](https://img.shields.io/badge/Gmail-andreyuser47@gmail.com-blue?logo=gmail&style=social)
-
+[![Email](https://img.shields.io/badge/Gmail-send-blue?logo=gmail&style=social)](mailto:andreyuser47@gmail.com)
