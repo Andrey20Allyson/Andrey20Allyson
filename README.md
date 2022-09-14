@@ -15,6 +15,7 @@
 - [**Formação**](#formação)
     - [**Uninassau**](#uninassau-atual)
     - [**ETE - Adv José David Gil Rodrigues**](#ete---adv-josé-david-gil-rodrigues)
+- [**Contatos**](#contatos)
 
 # Sobre mim
 
@@ -30,7 +31,7 @@ Aqui está uma lista de linguagens que eu conheço e ordenada pelo o meu **níve
 
 ---
 <div align="center">
-    <h1>Rankings</h1>
+    <h1>Ranking</h1>
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" alt="Javascript" height="64" />
     <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" alt="Java" height="64" />
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++" height="64" />
@@ -95,3 +96,10 @@ Aqui está uma lista de linguagens que eu conheço e ordenada pelo o meu **níve
 - Tec. em Desenvolvimento de Sistemas `Completo`
 
 ---
+
+## Contatos
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-follow-blue?logo=linkedin&style=social)](https://www.linkedin.com/in/andrey-allyson-310a9024b/)
+
+![Email](https://img.shields.io/badge/Gmail-andreyuser47@gmail.com-blue?logo=gmail&style=social)
+
