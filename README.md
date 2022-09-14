@@ -4,14 +4,14 @@
 
 ## Sumary
 
-- [Sobre mim](#sobre-mim)
-    - [Linguagens que conheço](#linguagens-que-conheço)
-        - [Rank 1 - "Domino"](#rank-1---domino)
-        - [Rank 2 - Intermediários](#rank-2---intermeriário)
-        - [Rank 3 - Só o básico](#rank-3---só-o-básico)
-        - [Rank 4 - Vish](#rank-4---vish)
-        - [Rank 5 - Não é linguagem >:C](#rank-5---não-é-linguagem-c)
-- [GitHub Stats](#github-stats)
+- [**Sobre mim**](#sobre-mim)
+    - [**Linguagens que conheço**](#linguagens-que-conheço)
+        - [**Rank 1 - "Domino"**](#rank-1---domino)
+        - [**Rank 2 - Intermediários**](#rank-2---intermeriário)
+        - [**Rank 3 - Só o básico**](#rank-3---só-o-básico)
+        - [**Rank 4 - Vish**](#rank-4---vish)
+        - [**Rank 5 - Não é linguagem >:C**](#rank-5---não-é-linguagem-c)
+- [**GitHub Stats**](#github-stats)
 
 # Sobre mim
 
@@ -71,4 +71,24 @@ Aqui está uma lista de linguagens que eu conheço e ordenada pelo o meu **níve
 
 ---
 
-##
+## Formação
+
+<div align="center">
+<img src="https://www.uninassau.edu.br/landpages/nassau/img/layout/logo-small.png">
+</div>
+
+### Uninassau `Atual`
+
+- Sup. em Análise e Desenvolvimento de Sistemas `1/6 períodos`
+
+---
+
+<div align="center">
+    <img src="https://scontent.frec42-1.fna.fbcdn.net/v/t39.30808-1/294059457_463329472463758_6720966147523984665_n.png?stp=dst-png_p200x200&_nc_cat=105&ccb=1-7&_nc_sid=c6021c&_nc_ohc=GKB-18la_cAAX8nmAVb&_nc_ht=scontent.frec42-1.fna&oh=00_AT8HsW6MIx7ALC8KwzYYAPBuY0bTz3AToHhCL65wOVjsNQ&oe=63266344" height="100">
+</div>
+
+### ETE - Adv José David Gil Rodrigues
+
+- Tec. em Desenvolvimento de Sistemas `Completo`
+
+---
