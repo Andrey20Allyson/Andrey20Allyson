@@ -37,7 +37,6 @@ Aqui está uma lista de linguagens que eu conheço e ordenada pelo o meu **níve
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++" height="64" />
     <img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" alt="Python" height="64" />
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg" alt="Lua" height="64" />
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="C lang" height="64" />
 </div>
 
 ### `Rank 1` - "Domino"
@@ -53,14 +52,6 @@ Aqui está uma lista de linguagens que eu conheço e ordenada pelo o meu **níve
 ### `Rank 3` - Só o básico
 
 - *C++*
-
-### `Rank 4` - Vish
-
-- *C*
-
-### `Rank 5` - Não é  linguagem >:C
-
-- *Portugol*
 
 ---
 
