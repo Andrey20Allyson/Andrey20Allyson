@@ -9,8 +9,6 @@
         - [**Rank 1 - "Domino"**](#rank-1---domino)
         - [**Rank 2 - Intermediários**](#rank-2---intermeriário)
         - [**Rank 3 - Só o básico**](#rank-3---só-o-básico)
-        - [**Rank 4 - Vish**](#rank-4---vish)
-        - [**Rank 5 - Não é linguagem >:C**](#rank-5---não-é-linguagem-c)
 - [**GitHub Stats**](#github-stats)
 - [**Formação**](#formação)
     - [**Uninassau**](#uninassau-atual)
