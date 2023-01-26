@@ -5,10 +5,6 @@
 ## Sumary
 
 - [**Sobre mim**](#sobre-mim)
-    - [**Linguagens que conheço**](#linguagens-que-conheço)
-        - [**Rank 1 - "Domino"**](#rank-1---domino)
-        - [**Rank 2 - Intermediários**](#rank-2---intermeriário)
-        - [**Rank 3 - Só o básico**](#rank-3---só-o-básico)
 - [**GitHub Stats**](#github-stats)
 - [**Formação**](#formação)
     - [**Uninassau**](#uninassau-atual)
@@ -22,36 +18,6 @@ Eu sou um estudante de **Análise e Desenvolvimento de Sistemas** que é apaixon
 Atualmente eu projeto e desenvolvo softwares com o ecosistema `NodeJs` com Javascript e Typescript.
 
 Já programei em **Python**, e pretendo voltar devido a sua capacidade de fazer inúmeras coisas e continuar sendo simples.
-
-## Linguagens que conheço
-
-Aqui está uma lista de linguagens que eu conheço e ordenada pelo o meu **nível de conhecimento** de **cima para baixo**.
-
----
-<div align="center">
-    <h1>Ranking</h1>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" alt="Javascript" height="64" />
-    <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" alt="Java" height="64" />
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++" height="64" />
-    <img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" alt="Python" height="64" />
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg" alt="Lua" height="64" />
-</div>
-
-### `Rank 1` - "Domino"
-
-- *Javascript | Typescript*
-
-### `Rank 2` - Intermeriário
-
-- *Java*
-- *Python*
-- *Lua*
-
-### `Rank 3` - Só o básico
-
-- *C++*
-
----
 
 ## GitHub Stats
 
