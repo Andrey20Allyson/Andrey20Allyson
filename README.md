@@ -2,6 +2,8 @@
     <h2>Olá!<br>Meu nome é Andrey<br>&<br>desenvolvo softwares Front-End e Back-End</h2>
 </div>
 
+**Currículo**: https://andrey20allyson.github.io
+
 ## Sumary
 
 - [**Sobre mim**](#sobre-mim)
@@ -15,11 +17,11 @@
 
 Eu sou um estudante de **Análise e Desenvolvimento de Sistemas** que é apaixonado pelo desenvolvimento de software. Sempre busco aprender mais sobre e estou sempre a berto a feedbacks.
 
-Atualmente eu projeto e desenvolvo softwares com o ecosistema `NodeJs` com Javascript e Typescript.
+Atualmente eu projeto e desenvolvo softwares com o ecosistema `NodeJS` com Javascript e Typescript.
+
+Tambem utilizo serviços do Google Cloud para colocar projetos no ar.
 
 Já programei em **Python**, e pretendo voltar devido a sua capacidade de fazer inúmeras coisas e continuar sendo simples.
-
-## GitHub Stats
 
 <div align="center">
     <a href="https://github.com/Andrey20Allyson">
@@ -27,8 +29,6 @@ Já programei em **Python**, e pretendo voltar devido a sua capacidade de fazer 
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Andrey20Allyson&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
     </a>
 </div>
-
----
 
 ## Formação
 
@@ -38,19 +38,15 @@ Já programei em **Python**, e pretendo voltar devido a sua capacidade de fazer 
 
 ### Uninassau `Atual`
 
-- Sup. em Análise e Desenvolvimento de Sistemas `1/6 períodos`
-
----
+- Sup. em Análise e Desenvolvimento de Sistemas `3/4 períodos`
 
 <div align="center">
-    <img src="https://scontent.frec42-1.fna.fbcdn.net/v/t39.30808-1/294059457_463329472463758_6720966147523984665_n.png?stp=dst-png_p200x200&_nc_cat=105&ccb=1-7&_nc_sid=c6021c&_nc_ohc=GKB-18la_cAAX8nmAVb&_nc_ht=scontent.frec42-1.fna&oh=00_AT8HsW6MIx7ALC8KwzYYAPBuY0bTz3AToHhCL65wOVjsNQ&oe=63266344" height="100">
+    <img src="./assets/ETE.png" height="100">
 </div>
 
 ### ETE - Adv José David Gil Rodrigues
 
 - Tec. em Desenvolvimento de Sistemas `Completo`
-
----
 
 ## Contatos
 
