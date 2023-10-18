@@ -15,13 +15,13 @@
 
 # Sobre mim
 
-Eu sou um estudante de **Análise e Desenvolvimento de Sistemas** que é apaixonado pelo desenvolvimento de software. Sempre busco aprender mais sobre e estou sempre a berto a feedbacks.
+Eu sou um estudante de **Análise e Desenvolvimento de Sistemas** que é apaixonado pelo desenvolvimento de software. Sempre busco aprender mais sobre e estou sempre aberto a feedbacks.
 
 Atualmente eu projeto e desenvolvo softwares com o ecosistema `NodeJS` com Javascript e Typescript.
 
 Tambem utilizo serviços do Google Cloud para colocar projetos no ar.
 
-Já programei em **Python**, e pretendo voltar devido a sua capacidade de fazer inúmeras coisas e continuar sendo simples.
+Já programei em **Python**, e pretendo voltar devido a sua capacidade de fazer inúmeras coisas.
 
 <div align="center">
     <a href="https://github.com/Andrey20Allyson">
