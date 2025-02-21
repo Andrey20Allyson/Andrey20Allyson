@@ -73,7 +73,7 @@ Knowledge:
 ## Formação
 
 <div align="center">
-    <img src="https://www.uninassau.edu.br/landpages/nassau/img/layout/logo-small.png">
+    <img src="./assets/uninassau-logo.png">
 </div>
 
 ### Uninassau `Atual`
